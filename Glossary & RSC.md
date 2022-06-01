@@ -12,15 +12,27 @@
 
 ## FortiNet
 
+ 
 ## FortiGate
 
+
 ## VPN
+-[What is a VPN](https://www.expressvpn.com/go/what-is-vpn-1?category=VPN&subcategory=info&lang=en&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlEq-Tax1HeKwY-gm7qQYtKkLW98QqZugo8h0ox7juDdxhy5qVxZd3AaAsxvEALw_wcB)
+-[What is a VPN 2](https://www.vpn-mentors.com/popular/vpns-101-vpnmentors-vpn-guide-newbies/?keyword=what%20is%20vpn&geo=1009974&device=&cq_src=google_ads&cq_cmp=990646454&cq_term=what%20is%20vpn&cq_plac=&cq_net=g&cq_plt=gp&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlH6K9S-haf0JWKaAcMiLFzzIQz0mA8NQUUA7SGbHzzG80dHjbxputgaAg_WEALw_wcB)
+
+
+## Site to Site VPN
+https://www.fortinet.com/resources/cyberglossary/what-is-site-to-site-vpn
+
 
 ## VPC
 
+
 ## Gateway
 
+
 ## NAT
+
 
 ## Resources
 
